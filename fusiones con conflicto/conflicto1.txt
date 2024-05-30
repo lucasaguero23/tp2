@@ -1,9 +1,0 @@
-Aqui vamos a empezar el nuevo texto
-
-(Este archivo va en el primer commit (1)
-
-#Se corrigio un error aqui
-
-Aqui esta el error se corrigio -> ###Este archivo va en el primer commit (1)
-
-#Se corrigio)

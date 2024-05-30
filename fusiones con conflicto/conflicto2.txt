@@ -1,10 +1,4 @@
-###Este archivo va en el primer commit (2)
-###Este archivo va en el primer commit (2)
-###Este archivo va en el primer commit (2)
-###Este archivo va en el primer commit (2)
-###Este archivo va en el primer commit (2)
-###Este archivo va en el primer commit (2)
-###Este archivo va en el primer commit (2)
-###Este archivo va en el primer commit (2)
-###Este archivo va en el primer commit (2)
-###Este archivo va en el primer commit (2)
+Este archivo va en el primer commit (2)
+
+#Se corrigio un error aqui
+

@@ -1,1 +1,4 @@
-#Este archivo estaba vacio en el master es por eso que se pretende borrar en el siguiente commit.
+#####Este archivo estaba vacio en el master es por eso que se pretende borrar en el siguiente commit.
+####Este archivo estaba vacio en el master es por eso que se pretende borrar en el siguiente commit.
+#####Este archivo estaba vacio en el master es por eso que se pretende borrar en el siguiente commit.
+######Este archivo estaba vacio en el master es por eso que se pretende borrar en el siguiente commit.

@@ -1,2 +1,5 @@
-Este archivo va a ser totalmente modificado y eliminado en un futuro commit
-Gracias por todo
+===Este archivo va a ser totalmente modificado y eliminado en un futuro commit
+=======Gracias por todo
+=======Gracias por todo
+=======Gracias por todo
+====Gracias por todo
